@@ -1,4 +1,4 @@
-#PICO Table
+# PICO Table
 
 Study        | PMID                                    |Patients/population/problem|Intervention|Comparison|Outcome|
 ------------ | --------------------------------------|---------------------------|------------|----------|-------|
