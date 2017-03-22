@@ -2,14 +2,14 @@
 
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that the 'suprise question' *are* more accurate than chance in predicting mortality within one year. The heterogeneity is ....
+**Clinical summary:** This meta-analysis suggests that the 'suprise question' *is* more accurate than chance in predicting mortality within one year. The heterogeneity is low.
 
-Regarding overall accuracy, the area under the ROC curve for predicting death at one year was 0.886 which is *higher* than the multivariable predtice indices reviewed by Yourman (citation below).
+Regarding overall accuracy, the area under the ROC curve for predicting death at one year was 0.823 which is *higher* than the multivariable predtice indices reviewed by Yourman (citation below).
 
-The assessment of diagnostic accuracy was limited by ...
+The assessment of diagnostic accuracy was limited by not being well studied in primary care.
 
 Time-frame	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 15%) | 1- Negative predictive value</br>(at prevalence of 50%)
-| -------------------------- |:--:|:--:|:-----:|:--:|:--:|
+| ---------------------- |:--:|:--:|:-----:|:--:|:--:|
 One month (Hamano)       | 96 | 37 |       |    |   
 One year (6 studies)     | 74 | 79 | 0.84  | 40 | 5
 Two years (Cohen)        | 38 | 91 |       |    | 
