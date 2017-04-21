@@ -16,22 +16,20 @@ Two years (Cohen)        | 38 | 91 |       |    |
 
 [Keep current with this topic](Keep-up.md)
 
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
-
-This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
-
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published narrative review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 * [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
-* [Evidence search](evidence-search.md) for this review
+* [Evidence search](../master/files/searching/evidence-search.md) for this review
 
 **Results:** Details of the studies included are in the:
-* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md) (pending)
-* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md) (pending)
-* [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
+* [Description of studies (PICO table)](../master/files/study-details/pico-table.md) (under construction)
+* [Risk of bias assessment](../master/files/study-details/risk-of-bias.md) (under construction)
+* [Forest plots](../master/files/forest-plots) ([source data](../../tree/master/files/data))
+* [Reconciliation of conclusions and trials included with prior meta-analyses](../master/files/reconcilation-tables) (under construction)
 * [Reconcliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconcilation-tables) (not applicable as no prior review)
 
-The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
+The forest plot for the primary outcomes are below. Additional [forest plots](../master/files/forest-plots) of secondary analyses may be available. 
 
-![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Mortality-prediction-using-the-surprise-question/master/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
+![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Mortality-prediction-using-the-surprise-question/master/files/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
 
 References:
 ----------------------------------
