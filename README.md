@@ -2,6 +2,8 @@
 
 A living systematic review
 
+Short url: http://openmetaanalysis.github.io/surprise_question
+
 **Clinical summary:** This meta-analysis suggests that the 'suprise question' *is* more accurate than chance in predicting mortality within one year. The heterogeneity is low.
 
 Regarding overall accuracy, the area under the ROC curve for predicting death at one year was 0.823 which is *higher* than the multivariable predtice indices reviewed by Yourman (citation below).
