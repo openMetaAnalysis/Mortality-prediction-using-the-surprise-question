@@ -10,7 +10,7 @@ Regarding overall accuracy, the area under the ROC curve for predicting death at
 
 The assessment of diagnostic accuracy was limited by not being well studied in primary care.
 
-Time-frame	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 15%) | 1- Negative predictive value</br>(at prevalence of 50%)
+Time-frame	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value(at prevalence of 15%) | 1- Negative predictive value(at prevalence of 50%)
 | ---------------------- |:--:|:--:|:-----:|:--:|:--:|
 One month (Hamano)       | 96 | 37 |       |    |   
 One year (6 studies)     | 74 | 79 | 0.84  | 40 | 5
@@ -54,6 +54,7 @@ Sep;3(5):1379-84. doi: 10.2215/CJN.00940208. PMID: [18596118](http://pubmed.gov/
 2. Pang WF, Kwan BC, Chow KM, Leung CB, Li PK, Szeto CC. Predicting 12-month mortality for peritoneal dialysis patients using the "surprise" question. Perit Dial Int. 2013 Jan-Feb;33(1):60-6. doi: 10.3747/pdi.2011.00204. Epub 2012 Aug 1. PMID: [22855890](http://pubmed.gov/22855890)
 3. Javier AD, Figueroa R, Siew ED, Salat H, Morse J, Stewart TG, et al. Reliability and Utility of the Surprise Question in CKD Stages 4 to 5. Am J Kidney Dis. 2017 Feb 15. pii: S0272-6386(17)30006-9. doi: 10.1053/j.ajkd.2016.11.025. PMID: [28215946](http://pubmed.gov/28215946)
 4. Hernández Quiles C, Bernabeu Wittel M, Praena Segovia J, Ternero Vega J, Díez Manglano J, Jarava Rol G, Ollero Baturone M. Comparison surprise question against a target index (PALIAR Index) for identifying terminal status in patients with advanced chronic disease. Rev Clin Esp. 2017 Mar;217(2):123-124. doi: 10.1016/j.rce.2016.10.014. English, Spanish. PMID: [27919418](http://pubmed.gov/27919418)
+5. Tripp D, Janis J, Jarrett B, Lucas FL, Strout TD, Han PKJ, Stumpf I, Hutchinson RN. How Well Does the Surprise Question Predict 1-year Mortality for Patients Admitted with COPD? J Gen Intern Med. 2021 Sep;36(9):2656-2662. doi: 10.1007/s11606-020-06512-8. Epub 2021 Jan 6. PMID: [33409886](http://pubmed.gov/33409886).
 
 #### New study(s) *excluded* 
 1. Elliott M, Nicholson C. A qualitative study exploring use of the surprise question in the care of older people: perceptions of general practitioners and challenges for practice. BMJ Support Palliat Care. 2014 Aug 28. pii:
@@ -64,7 +65,7 @@ pulmonary disease. Palliat Med. 2010 Oct;24(7):740-1. doi: 10.1177/0269216310375
 4. Hubbard G. The 'surprise question' in end-of-life care. Br J Community Nurs. 2011 Mar;16(3):109. PMID: [21378648](http://pubmed.gov/21378648).
 5. Murray SA, Boyd K, Kendall M, Worth A, Benton TF, Clausen H. Dying of lung cancer or cardiac failure: prospective qualitative interview study of patients and their carers in the community. BMJ. 2002 Oct 26;325(7370):929.  PMID: [12399341](http://pubmed.gov/12399341) _Early conceptualization of the surpirse question, but no data provided_
 6. Pattison M, Romer AL. Improving Care Through the End of Life: launching a primary care clinic-based program. J Palliat Med. 2001 Summer;4(2):249-54. PubMed PMID: [11441634](http://pubmed.gov/11441634) _Initial conceptualization of the surpirse question, but no data provided_
-7. Fox E, Landrum-McNiff K, Zhong Z, Dawson NV, Wu AW, Lynn J. Evaluation of prognostic criteria for determining hospice eligibility in patients with advanced lung, heart, or liver disease. SUPPORT Investigators. Study to Understand
+7. Fox E, Landrum-McNiff K, Zhong Z, Dawson NV, Wu AW, Lynn J. Evaluation of prognostic criteria for determining ice eligibility in patients with advanced lung, heart, or liver disease. SUPPORT Investigators. Study to Understand
 Prognoses and Preferences for Outcomes and Risks of Treatments. JAMA. 1999 PMID: [10553790](http://pubmed.gov/10553790)
 
 -------------------------------
