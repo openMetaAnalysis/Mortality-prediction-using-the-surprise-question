@@ -10,6 +10,8 @@ Regarding overall accuracy, the area under the ROC curve for predicting death at
 
 The assessment of diagnostic accuracy was limited by not being well studied in primary care.
 
+Since our review, the surprise question has been operationalized in an EHR (Musser et al, 2024. DOI: [10.1055/a-2247-9355](http://doi.org/10.1055/a-2247-9355); PMID: [38232748](http://pubmed.gov/38232748).)
+
 Time-frame	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value(at prevalence of 15%) | 1- Negative predictive value(at prevalence of 50%)
 | ---------------------- |:--:|:--:|:-----:|:--:|:--:|
 One month (Hamano)       | 96 | 37 |       |    |   
